@@ -1,3 +1,7 @@
+# 1.1.0-plnice-1 (November 9, 2018)
+
+- Fixed Samsung-specific crash related to `android:elevation` on Android version 19.
+
 # 1.1.0 (October 23, 2018)
 
 - Updated the sample app.
